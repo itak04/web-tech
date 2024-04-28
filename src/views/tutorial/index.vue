@@ -9,6 +9,7 @@
             {{ post.title }}
             </li>
         </ul>
+        
     </div>
 </template>
     

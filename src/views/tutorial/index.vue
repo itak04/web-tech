@@ -39,6 +39,7 @@ export default {
             this.count = Number(this.count) + 1;
         },
     },
+    
 }
 </script>
     
